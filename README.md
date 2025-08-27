@@ -21,17 +21,3 @@ This project aims to develop a tourism destination recommendation system using m
 2. **Model Training**: A collaborative filtering model is trained using historical user data and their ratings of various tourism destinations.
 3. **Recommendation Generation**: The model predicts user preferences for unrated destinations and ranks them.
 4. **User Interface**: Users can input their unique ID into the web interface to receive a list of recommended destinations.
-
-## Installation and Usage
-- Install dependencies: `pip install -r requirements.txt`.
-- Run the Flask app: `python3 app.py`.
-- Access the web interface via `http://localhost:5000`.
-
-## Contributing
-Contributions to enhance or extend the project's functionality are welcome. Please feel free to fork the repository and submit pull requests.
-
-## License
-[MIT License](LICENSE)
-
-## Contact
-For any queries or feedback regarding this project, please contact [ricardo.3bdg@gmail.com].
